@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     <li>🔭 I’m currently working on Pickleball Skills</li>
     <li>🌱 I’m currently addicted to Pickleball</li>
     <li>📫 How to reach me: decampongosmand@gmail.com</li>
+    <li>👾 Check my portfolio: mandotportfolio.vercel.app</li>
   </ul>
 </p>
 
