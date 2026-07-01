@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </ul>
 </p>
 
-## 🧰 About me and my interests
+## 🧰 My experiences
 ``` yaml
 technical background: [
 "Inter - Medical IT Engineer",
